@@ -1,3 +1,3 @@
 ## goit-markup-hw-01
 
-My work [GitHub Pages](https://github.com/DEZISTER/goit-markup-hw-01)
+My work [GitHub Pages](https://dezister.github.io/goit-markup-hw-01/1)
